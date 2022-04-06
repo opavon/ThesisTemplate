@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-5822-8858"
 title: "A Thesis Template in Word"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: https://doi.org/10.5281/zenodo.6418337
 date-released: 2021-02-11
 url: "https://github.com/opavon/ThesisTemplate"
