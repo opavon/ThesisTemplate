@@ -24,7 +24,7 @@ You can find examples of successful theses from UCL at the [UCL Discovery site](
 ### License and Citation
 
 This thesis template is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). Anyone is free to use, share, and adapt this template. If you do, please cite it as:
-* Pavon Arocas, O. (2021). A Thesis Template in Word (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.1234
+* Pavon Arocas, O. (2021). A Thesis Template in Word (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.6418337
 
 <br/>
 
